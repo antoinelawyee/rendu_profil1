@@ -1,0 +1,95 @@
+body{
+  color: red;
+  font-family: "spectral", serif;
+  background-color: grey;
+  font-size: 1px;
+}
+
+h1{
+color: White;
+font-size: 40px;
+margin-left: 160px;
+}
+
+h2{
+color: white;
+font-size: 20px;
+margin-left: 120px;
+}
+
+h3{
+  color: white;
+  font-size: 20px;
+  margin-left: 250px;
+  margin-top: 100px;
+}
+
+img{
+  width:100px;
+height:100px;
+margin-left: 250px;
+}
+p{
+  color: White;
+  font-size: 20px;
+  margin-left: 120px;
+}
+#logo {
+  width:auto;
+}
+
+.img-circle {
+  border-radius: 40%;
+}
+
+.shadowed {
+  box-shadow: 10px 11px 15px black;
+}
+
+.material-icons{
+font-style: normal ;
+font-size: 24px ;
+font-family: 'Material Icons';
+font-weight: normal ;
+line-height: 1;
+letter-spacing: normal;
+text-transform: none;
+display: inline-block;
+white-space: nowrap;
+word-wrap: normal;
+direction: ltr;
+text-rendering: optimizeLegibility;
+-webkit-font-smoothing: antialiased;
+}
+
+#sidebar{
+position: fixed;
+top: 0;
+left:0;
+bottom:0;
+width:80px;
+background-color: black;
+font-size: 20px;
+
+}
+
+
+.text-center{
+text-align: center;
+
+}
+
+#sidebar a:hover{
+  color: white;
+}
+
+
+a{
+  text-decoration: none;
+}
+
+
+li{
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
